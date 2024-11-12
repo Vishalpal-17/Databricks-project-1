@@ -8,12 +8,6 @@ for i in range(1,10):
 
 # COMMAND ----------
 
-print('xyz')
-
-# COMMAND ----------
-
-print("vizio dbx")
-
 # COMMAND ----------
 
 
