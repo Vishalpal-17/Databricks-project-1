@@ -13,4 +13,9 @@ for i in range(1,11):
 
 # COMMAND ----------
 
+for j in range(1,5):
+  print('even')
+
+# COMMAND ----------
+
 
