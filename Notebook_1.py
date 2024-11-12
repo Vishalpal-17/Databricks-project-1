@@ -16,4 +16,8 @@ print(1)
 
 # COMMAND ----------
 
+print('ABC')
+
+# COMMAND ----------
+
 
