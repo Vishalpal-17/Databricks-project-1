@@ -8,4 +8,12 @@ for i in range(1,10):
 
 # COMMAND ----------
 
+print('abcd')
+
+# COMMAND ----------
+
+print(1)
+
+# COMMAND ----------
+
 
